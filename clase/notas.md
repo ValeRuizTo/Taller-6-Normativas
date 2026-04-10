@@ -58,7 +58,9 @@ Cada fila de la tabla corresponde a un control específico (identificado con có
 La tabla utiliza un código de colores visual para facilitar su lectura:
 
 ✅ Verde indica controles que se cumplen satisfactoriamente.
+
 ⚠️ Amarillo señala cumplimiento parcial o brechas moderadas.
+
 ❌ Rojo identifica brechas críticas o incumplimientos graves.
 
 Esta checklist combina los requisitos legales colombianos (principalmente la Ley 1581 y sus decretos reglamentarios) con los controles internacionales de la ISO/IEC 27001:2022, adaptados al contexto del Modelo de Seguridad y Privacidad de la Información (MSPI) del MinTIC. Su propósito es ofrecer una visión completa y estructurada del nivel de cumplimiento actual de GobData, permitiendo identificar rápidamente las áreas de mayor riesgo y priorizar las acciones correctivas necesarias.
