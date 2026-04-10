@@ -89,7 +89,7 @@ Anote las responsabilidades acordadas entre los miembros del equipo para complet
 
 | Tarea asignada | Responsable | Fecha estimada |
 |----------------|-------------|----------------|
-| Tablas en excel | Darek Aljuri 1 | 9/04 |
+| Tablas en excel | Darek Aljuri | 9/04 |
 | Redacción del informe     | Valentina Ruiz | 09/04 |
 | Investigación y referencias | Santiago Soler | 09/04 |
 
